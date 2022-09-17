@@ -1,5 +1,5 @@
 # 한국어 텍스트 분석기
-|<img src="image/example.png" width="70%">|
+|<img src="image/example.png" width="80%">|
 |:---:|  
 
 한국어 텍스트 분석기는 코드 작성 없이 간단하게 사용 할 수 있습니다.
