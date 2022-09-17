@@ -16,7 +16,8 @@ streamlit run main.py
 
 ## 사용 방법
 - **텍스트 입력**: 중앙 텍스트 입력창에 분석할 텍스트를 입력합니다.  
-<img src="image/input_text.png" width="70%">
+<img src="image/input_text.png" width="70%">  
+
 - **옵션**: 텍스트 분석에 필요한 옵션을 지정할 수 있습니다.
     - **추가 단어**: 분석에 추가할 단어를 입력합니다.  
     <img src="image/add.png" width="30%">
