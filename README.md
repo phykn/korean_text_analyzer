@@ -19,8 +19,8 @@ streamlit run main.py
 <img src="image/input_text.png" width="70%">  
 
 - **옵션**: 텍스트 분석에 필요한 옵션을 지정할 수 있습니다.
-    - **추가 단어**: 분석에 추가할 단어를 입력합니다.  
-    <img src="image/add.png" width="30%">
+    - **추가 단어**: 분석에 추가할 단어를 입력합니다.   
+    <img src="image/add.png" width="30%">  
     - **불용어**: 분석에 제거할 단어를 입력합니다.  
     <img src="image/remove.png" width="30%">
     - **배경 이미지**: 워드클라우드의 배경이미지를 선택합니다.
