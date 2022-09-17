@@ -4,10 +4,8 @@
 - **단어 빈도수**: 단어 빈도수를 막대 그래프로 표현합니다.
 
 ## 구현
-- **형태소 분석**: Kiwi 형태소 분석기 (10.5281/zenodo.7041425) 를 사용하여 형태소 분석을 수행합니다.  
-Kiwi 에 대한 자세한 내용은 https://github.com/bab2min/Kiwi 에서 확인할 수 있습니다.
-- **Web App**: 한국어 텍스트 분석기는 `streamlit` 을 활용하여 구성하였습니다.  
-`streamlit` 의 자세한 내용은 https://streamlit.io 에서 확인할 수 있습니다.
+- **형태소 분석**: Kiwi 형태소 분석기 (10.5281/zenodo.7041425) 를 사용하여 형태소 분석을 수행합니다. (https://github.com/bab2min/Kiwi)
+- **Web App**: 한국어 텍스트 분석기는 `streamlit` 을 활용하여 구성하였습니다. (https://streamlit.io)
 
 
 ## 실행
