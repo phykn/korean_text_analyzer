@@ -1,0 +1,7 @@
+numpy
+pandas
+Pillow
+altair
+streamlit
+wordcloud
+kiwipiepy
