@@ -17,6 +17,7 @@ streamlit run main.py
 ```
 
 ## DEMO APP
+아래 링크를 통해 Web App 을 사용해 볼 수 있습니다.
 https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 
 ## 사용 방법
