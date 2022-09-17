@@ -14,6 +14,10 @@
 streamlit run main.py
 ```
 
+## 데모 페이지
+아래 링크에서 Web App 실행 결과를 확인 할 수 있습니다.
+https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
+
 ## 사용 방법
 - **텍스트 입력**: 중앙 텍스트 입력창에 분석할 텍스트를 입력합니다.  
   <img src="image/input_text.png" width="70%">  
@@ -39,6 +43,3 @@ streamlit run main.py
 
 - **단어 빈도수**  
 <img src="image/frequency.png" width="50%">
-
-## DEMO 페이지
-https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
