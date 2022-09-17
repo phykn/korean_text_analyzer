@@ -39,3 +39,6 @@ streamlit run main.py
 
 - **단어 빈도수**  
 <img src="image/frequency.png" width="50%">
+
+## DEMO 페이지
+https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
