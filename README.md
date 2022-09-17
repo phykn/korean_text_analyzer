@@ -21,7 +21,7 @@ streamlit run main.py
 https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 
 ## 사용 방법
-- **텍스트 입력**: 중앙 텍스트 입력창에 분석할 텍스트를 입력합니다.  
+- **텍스트 입력**: 중앙 텍스트 입력창에 분석할 텍스트를 입력합니다. `Ctrl+Enter` 로 입력한 텍스트를 적용합니다.  
   <img src="image/input_text.png" width="70%">  
 
 - **옵션**: 텍스트 분석에 필요한 옵션을 지정할 수 있습니다.
