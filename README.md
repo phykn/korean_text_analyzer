@@ -51,4 +51,4 @@ https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 2. shin.png: https://static.wikia.nocookie.net/love-live-fanon/images/9/98/Shinchan.png
 3. dolphin.png: https://cdn.pixabay.com/photo/2022/02/27/04/58/dolphin-7036679_960_720.png
 4. pika.png: https://pbs.twimg.com/media/CnkW78cXYAADwMv.jpg
-5. 나눔: https://hangeul.naver.com/font
+5. 나눔글꼴: https://hangeul.naver.com/font
