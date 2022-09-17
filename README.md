@@ -8,17 +8,17 @@
 - **Web App**: 한국어 텍스트 분석기는 `streamlit` 을 활용하여 구성하였습니다. `streamlit` 의 자세한 내용은 https://streamlit.io 에서 확인할 수 있습니다.
 
 
-## 실행
+### 실행
 아래 명령을 통해 `main.py` 파일을 실행합니다.
 ```python
 streamlit run main.py
 ```
 
-## DEMO
+### DEMO
 아래 링크에서 데모 페이지를 확인 할 수 있습니다.  
 https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 
-## 사용 방법
+### 사용 방법
 - **텍스트 입력**: 중앙 텍스트 입력창에 분석할 텍스트를 입력합니다.  
   <img src="image/input_text.png" width="70%">  
 
@@ -34,7 +34,7 @@ https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
     - **빈도수 표기 개수**: 막대그래프에 표기할 데이터 개수를 설정합니다.
     - **Download (.csv)**: 단어 빈도수 결과 `csv` 파일을 다운로드 합니다.
 
-## 결과 예시
+### 결과 예시
 - **워드클라우드**  
 
 | dolphin.png | shin.png | pika.png |
