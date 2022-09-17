@@ -45,3 +45,7 @@ https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 
 - **단어 빈도수**  
 <img src="image/frequency.png" width="50%">
+
+## 출처
+1. `Kiwi`: https://github.com/bab2min/Kiwi, 10.5281/zenodo.7041425
+2. shin.png: https://static.wikia.nocookie.net/love-live-fanon/images/9/98/Shinchan.png/revision/latest/scale-to-width-down/1520?cb=20210401041538
