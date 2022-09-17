@@ -38,4 +38,4 @@ streamlit run main.py
 | <img src="image/dolphin.png" width="130%"> | <img src="image/shin.png" width="70%"> | <img src="image/pika.png" width="100%"> |
 
 - **단어 빈도수**  
-<img src="image/frequency.png" width="60%">
+<img src="image/frequency.png" width="50%">
