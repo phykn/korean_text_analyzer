@@ -27,7 +27,6 @@ stopwords = st.sidebar.text_area("불용어", value="\n".join(["ㅋㅋㅋ", "쿠
 stopwords = stopwords.split()
 st.sidebar.markdown("---")
 
-
 # background image
 background_image = st.sidebar.selectbox(
     "배경 이미지",
