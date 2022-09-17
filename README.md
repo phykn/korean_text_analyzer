@@ -48,4 +48,6 @@ https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 
 ## 출처
 1. `Kiwi`: https://github.com/bab2min/Kiwi, 10.5281/zenodo.7041425
-2. shin.png: https://static.wikia.nocookie.net/love-live-fanon/images/9/98/Shinchan.png/revision/latest/scale-to-width-down/1520?cb=20210401041538
+2. shin.png: https://static.wikia.nocookie.net/love-live-fanon/images/9/98/Shinchan.png
+3. dolphin.png: https://cdn.pixabay.com/photo/2022/02/27/04/58/dolphin-7036679_960_720.png
+4. pika.png: https://pbs.twimg.com/media/CnkW78cXYAADwMv.jpg
