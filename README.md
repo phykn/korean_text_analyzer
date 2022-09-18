@@ -38,14 +38,29 @@ https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 
 ## 사용 방법
 - **텍스트 입력**: 중앙 텍스트 입력창에 분석할 텍스트를 입력합니다. `Ctrl+Enter` 로 입력한 텍스트를 적용합니다.  
-  <img src="image/input.png" width="70%">  
+  <details>
+    <summary>example</summary>  
+    <figure>
+      <img src="image/input.png">
+    </figure>
+  </details>
 
 - **옵션**: 텍스트 분석에 필요한 옵션을 지정할 수 있습니다.
-    - **추가 단어**: 분석에 추가할 단어를 입력합니다.    
-      <img src="image/add.png" width="30%">  
+    - **추가 단어**: 분석에 추가할 단어를 입력합니다.
+      <details>
+        <summary>example</summary>   
+        <figure>
+          <img src="image/add.png">  
+        </figure>
+      </details>  
 
     - **불용어**: 분석에 제거할 단어를 입력합니다.  
-      <img src="image/remove.png" width="30%">  
+      <details>
+        <summary>example</summary>   
+        <figure>
+          <img src="image/remove.png">  
+        </figure>
+      </details>  
 
     - **배경 이미지**: 워드클라우드의 배경이미지를 선택합니다.
     - **품사**: 분석할 품사를 선택합니다. 기본값은 `일반 명사`, `고유 명사` 입니다.
@@ -60,9 +75,14 @@ https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 | <img src="image/dolphin.png" width="130%"> | <img src="image/shin.png" width="70%"> | <img src="image/pika.png" width="100%"> |
 
 - **단어 빈도수**  
-<img src="image/frequency.png" width="50%">
+  <details>
+    <summary>보기</summary>   
+      <figure>
+        <img src="image/frequency.png">  
+      </figure>
+  </details>  
 
-## 출처
+## References
 1. `Kiwi`: https://github.com/bab2min/Kiwi, 10.5281/zenodo.7041425
 2. shin.png: https://static.wikia.nocookie.net/love-live-fanon/images/9/98/Shinchan.png
 3. dolphin.png: https://cdn.pixabay.com/photo/2022/02/27/04/58/dolphin-7036679_960_720.png
