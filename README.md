@@ -15,7 +15,7 @@
 ## Requirements  
 
 <details>
-  <summary>show list</summary>  
+  <summary>보기</summary>  
   
   - numpy
   - pandas
@@ -39,7 +39,7 @@ https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 ## How to use
 - **텍스트 입력**: 중앙 텍스트 입력창에 분석할 텍스트를 입력합니다. `Ctrl+Enter` 로 입력한 텍스트를 적용합니다.  
   <details>
-    <summary>example</summary>  
+    <summary>예시</summary>  
     <figure>
       <img src="image/input.png">
     </figure>
@@ -48,7 +48,7 @@ https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 - **옵션**: 텍스트 분석에 필요한 옵션을 지정할 수 있습니다.
     - **추가 단어**: 분석에 추가할 단어를 입력합니다.
       <details>
-        <summary>example</summary>   
+        <summary>예시</summary>   
         <figure>
           <img src="image/add.png">  
         </figure>
@@ -56,7 +56,7 @@ https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 
     - **불용어**: 분석에 제거할 단어를 입력합니다.  
       <details>
-        <summary>example</summary>   
+        <summary>예시</summary>   
         <figure>
           <img src="image/remove.png">  
         </figure>
@@ -83,7 +83,7 @@ https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
   </details>  
 
 ## References
-1. `Kiwi`: https://github.com/bab2min/Kiwi, 10.5281/zenodo.7041425
+1. Kiwi 형태소 분석기: https://github.com/bab2min/Kiwi, 10.5281/zenodo.7041425
 2. 나눔글꼴: https://hangeul.naver.com/font  
 3. shin.png: https://static.wikia.nocookie.net/love-live-fanon/images/9/98/Shinchan.png
 4. dolphin.png: https://cdn.pixabay.com/photo/2022/02/27/04/58/dolphin-7036679_960_720.png
