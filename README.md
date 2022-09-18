@@ -1,25 +1,39 @@
-# 한국어 텍스트 분석기
-<img src="image/example.png" width="75%">  
+# 한국어 텍스트 분석기  
 
-한국어 텍스트 분석기는 코드 작성 없이 간단하게 사용 할 수 있는 웹 애플리케이션 입니다.
+한국어 텍스트 분석기는 코드 작성 없이 간단히 사용 하는 웹 애플리케이션 입니다.  
+
+<details>
+  <summary>실행 예시</summary>
+  <figure>
+      <img src="image/example.png">  
+  </figure>
+</details>  
+
 - **워드클라우드**: 분석 결과를 시각화 합니다. 빈도수가 높은 단어일 수록 크게 표기됩니다.
 - **단어 빈도수**: 단어 빈도수를 막대 그래프로 표현합니다.
 
-## 구현
-- **형태소 분석**: Kiwi 형태소 분석기 (10.5281/zenodo.7041425) 를 사용하여 형태소 분석을 수행합니다.  
-https://github.com/bab2min/Kiwi
-- **Web App**: 한국어 텍스트 분석기는 `streamlit` 을 활용하여 구성하였습니다.  
-https://streamlit.io
+## Requirements  
 
+<details>
+  <summary>show list</summary>  
+  
+  - numpy
+  - pandas
+  - Pillow
+  - altair
+  - streamlit
+  - wordcloud
+  - kiwipiepy
+</details>  
 
-## 실행
+## How to run
 아래 명령을 통해 `main.py` 파일을 실행합니다.
 ```python
 streamlit run main.py
 ```
 
 ## DEMO APP
-아래 링크를 통해 Web App 을 사용해 볼 수 있습니다.  
+아래 링크를 통해 Web App 을 사용 할 수 있습니다.  
 https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 
 ## 사용 방법
