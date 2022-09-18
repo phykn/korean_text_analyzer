@@ -36,7 +36,7 @@ streamlit run main.py
 아래 링크를 통해 Web App 을 사용 할 수 있습니다.  
 https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
 
-## 사용 방법
+## How to use
 - **텍스트 입력**: 중앙 텍스트 입력창에 분석할 텍스트를 입력합니다. `Ctrl+Enter` 로 입력한 텍스트를 적용합니다.  
   <details>
     <summary>example</summary>  
@@ -67,7 +67,7 @@ https://phykn-korean-text-analyzer-main-lha9a2.streamlitapp.com
     - **빈도수 표기 개수**: 막대그래프에 표기할 데이터 개수를 설정합니다.
     - **Download (.csv)**: 단어 빈도수 결과 `csv` 파일을 다운로드 합니다.
 
-## 결과 예시
+## Result
 - **워드클라우드**  
 
 | dolphin.png | shin.png | pika.png |
